@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
     return (
         <footer>
-            © 2022 MegaloMedia / megaDoug | {" "}
+            © 2022 MegaloMedia / megaDoug{"  "}
             <Link
                 className="social-link"
                 to="https://www.instagram.com/megadoug_roussin/"

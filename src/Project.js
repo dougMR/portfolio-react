@@ -22,7 +22,7 @@ const Project = () => {
         );
     }
     return (
-        <div>
+        <div className="container">
             {/* Project page navigation */}
             <nav className="navbar navbar-expand-lg navbar-dark">
                 <div className="container-fluid">

@@ -19,7 +19,9 @@
     --color4: #ede6e3; */
 
 :root {
+    /* variable rem */
     font-size: calc(8px + (1vw + 1vh) / 2);
+    /* colors */
     --dark-title: #113537;
     --light-title: #d0f3ff;
     --dark-copy: #1a3a49;
