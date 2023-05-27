@@ -50,7 +50,7 @@ const Project = () => {
                         id="navbarNavAltMarkup"
                     >
                         <div className="navbar-nav">
-                            <Link className="nav-link" to="/">
+                            <Link className="nav-link" to="/#about">
                                 About
                             </Link>
                             <Link className="nav-link" to="/#contact">
