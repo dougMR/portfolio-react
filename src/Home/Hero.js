@@ -12,7 +12,7 @@ const Hero = () => {
                         href="#footnote"
                         style={{textDecoration: "none", fontSize: "1.5em"}}
                         >*</a></h3>
-        <code>const fun = playWith(Javascript);</code>
+        {/* <code>const fun = playWith(Javascript);</code> */}
         <a className="more" href="#about">
             <span className="material-symbols-outlined"> expand_more </span>
         </a>

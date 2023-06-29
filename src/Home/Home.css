@@ -116,7 +116,7 @@ section,
 footer {
     /* border: 1px solid orange; */
     box-sizing: border-box;
-    padding: 3rem 2rem 5rem;
+    padding: 2rem 2rem 2rem;
     box-shadow: 0 0 2rem var(--page-bg);
     border-radius: 1rem 1rem 0 0;
 }
@@ -169,6 +169,7 @@ section#intro {
     height: 100vh;
     color: var(--light-bg);
 }
+section#intro 
 section#intro #intro-title {
     text-align: center;
     animation: fade-in 2s, slide-up ease-out 2s;
@@ -194,7 +195,7 @@ section#intro h3 {
 }
 
 section#intro code {
-    font-size: 1.3rem;
+    font-size: 0.9rem;
     /* background-color: black; */
     opacity: 0;
     animation-name: fade-in;
@@ -310,7 +311,6 @@ section#portfolio .card .card-text {
 footer {
     background-color: #111;
     color: #ccc;
-    padding-bottom: 3rem;
     border-radius: 0;
     text-align: right;
 }
